@@ -1,0 +1,23 @@
+Data,Location
+American Community Survey,http://jaredlander.com/data/acs_ny.csv
+AT&T,Retrieve using the quantmod package
+baseball,In the plyr package
+bladder,In the survival package
+Country Information,http://jaredlander.com/data/GovType.csv
+Country Information,http://jaredlander.com/data/countryCodes.csv
+credit,http://jaredlander.com/data/credit.rdata
+diamonds,In the ggplot2 package
+economics,In the ggplot2 package
+father and son heights,In the UsingR package
+Foreign Assistance,http://jaredlander.com/data/US_Foreign_Aid.zip
+GDP,Retrieve using the WDI package
+NYC Condo Values,http://jaredlander.com/data/housing.csv
+NYC Condo Values,http://jaredlander.com/data/housingNew.csv
+tips,In the reshape2 package
+tomato,http://jaredlander.com/data/Tomato%20First.csv
+United States Presidents,http://jaredlander.com/data/presidents.rdata
+United States Wars,http://jaredlander.com/data/warTimes.rdata
+Voter Preference,http://jaredlander.com/data/ideo.rdata
+WiFi,http://jaredlander.com/data/wifi.rdata
+wine,http://jaredlander.com/data/wine.csv
+World Map,http://jaredlander.com/data/worldmap.zip
