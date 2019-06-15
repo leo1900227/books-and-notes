@@ -1,0 +1,40 @@
+{
+    "created_time": "2019-06-13T13:09:09Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-06-13T13:09:09Z",
+            "modified_time": "2019-06-13T13:09:09Z",
+            "name": "Applied Text Analysis with Python.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-06-13T13:09:09Z",
+            "modified_time": "2019-06-13T13:09:09Z",
+            "name": "精通Python爬虫框架Scrapy.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "Mining-the-Social-Web-3rd-Edition"
+        },
+        {
+            "name": "Python 3网络爬虫开发实战 ,崔庆才著"
+        },
+        {
+            "name": "Python全栈数据工程师养成攻略"
+        },
+        {
+            "name": "Web Scraping with Python"
+        }
+    ],
+    "version": "1"
+}

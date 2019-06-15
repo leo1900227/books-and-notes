@@ -1,22 +1,3 @@
----
-title: "读书笔记-Advanced R"
-date: 2019-01-07T15:43:48+08:00
-lastmod: 2019-01-07T15:43:48+08:00
-draft: false
-tags: 
-categories: 
-author: "Lin"
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-# comment: false
-toc: true
-autoCollapseToc: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
-reward: true
-mathjax: true
----
 
 ![](https://d33wubrfki0l68.cloudfront.net/52a3c72c2f36d13146b17777b3dfef51264499af/9d698/cover.png)
 
@@ -40,7 +21,7 @@ mathjax: true
 # I Foundations
 Introduction
 
-## [2 Names and values](https://adv-r.hadley.nz/names-values.html)
+## 2 Names and values
 ### 2.1 Introduction
 ### 2.2 Binding basics
 ### 2.3 Copy-on-modify
